@@ -1,4 +1,4 @@
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbj1624)](https://solved.ac/kbj1624/)
+[Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kbj1624)](https://solved.ac/kbj1624/)
 
 # 💎 STACKS
 ### Platforms & Languages
